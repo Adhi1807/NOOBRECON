@@ -6,6 +6,7 @@ NOOBRECON is a basic reconnaissance tool built in Python for performing informat
 ## Usage
 
 python3 noobrecon.py [target]
+
 Replace `[target]` with the IP address or domain name of the target you want to perform reconnaissance on.
 
 Use this only on Kali Linux.
